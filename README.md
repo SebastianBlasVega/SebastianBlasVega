@@ -1,7 +1,7 @@
   <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://miportafolio-8776e.web.app/">Sebastian</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://sebastianblas.vercel.app/">Sebastian</a></b>.
     <br>I'm a Computer Science and Information Technology student.
 <br>
 </samp>
