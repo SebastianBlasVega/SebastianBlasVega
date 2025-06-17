@@ -29,3 +29,12 @@
 </samp>
 </details>
 <hr>
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBlasVega&layout=compact&theme=tokyonight" height="150"/>
+ 
+  ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=SebastianBlasVega&theme=tokyonight)
+  
+</p>
